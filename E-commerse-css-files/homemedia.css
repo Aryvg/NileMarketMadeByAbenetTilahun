@@ -1,0 +1,42 @@
+@media (max-width:400px){
+    .header2{
+      height:50px;
+      padding-top:10px;   
+   }
+    .sign-up-button{
+      display:none;
+    }
+    .menu-part{
+      top:110px;
+    }
+    body{
+      padding-top:50px;
+    }
+    .search-storages{
+      top:183%;
+    }
+    .menu-part{
+      height:170px;
+    }
+    .mores{
+      display:block;
+      color:white;
+    }
+    .sign-up-button{
+      display:none;
+    }
+    .sl-div{
+      top:262px;
+    }
+  }
+  @media (max-width:386px){
+    .payment-summary{
+      max-width:89.7%;
+    }
+    .image-containers img{
+      margin:auto 25px;
+    }
+    .image-containerd img{
+      margin:auto -50px;
+    }
+  }
